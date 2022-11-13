@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "title":"Getting Started with React",
+        "feed":"This page is an overview of the React documentation and related resources.",
+        "link":"href=https://reactjs.org/docs/getting-started.html"
+    },
+    {
+        "id":2,
+        "title":"JavaScript Documentation",
+        "feed":"JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced.",
+        "link":"https://www.w3schools.com/js/"
+         
+    },
+    {
+        "id":3,
+        "title":"Wanna Learn HTML!!!!?",
+        "feed":"HTML is the standard markup language for Web pages.",
+        "link":"https://www.w3schools.com/html/"
+    },
+    {
+        "id":4,
+        "title":"Use me to look attractive and responsive,I am BootStrap",
+        "feed":"Build fast, responsive sites with Bootstrap",
+        "link":"https://getbootstrap.com/"
+    },
+    {
+        "id":5,
+        "title":"Learn java",
+        "feed":"Learn Java: Tutorials for Beginners, Intermediate, and Advanced Programmers",
+        "link":"https://stackify.com/java-tutorials/"
+    },
+    
+    {
+        "id":6,
+        "title":"Tech Articals",
+        "feed":"Get the latest technology and engineering news and insight",
+        "link":"https://www.newscientist.com/subject/technology/"
+    }
+]

@@ -1,0 +1,14 @@
+
+.title{
+    color: rgb(102, 102, 102);
+    font-family: 'poppins',sans-serif
+}
+.feed{
+    /* font-family: 'Aboreto', cursive; */
+    font-family:'Rubic',sans-serif;
+    font-size: large;
+    color: rgb(56, 44, 44);
+}
+.link{
+    color: rgb(38, 80, 92);
+}
